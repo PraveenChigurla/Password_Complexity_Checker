@@ -1,0 +1,1 @@
+ This program provides a simple yet effective way to assess the strength of a password based on length, character types, and complexity. It guides the user to create stronger passwords by enforcing specific criteria and providing feedback on the password's strength level.
